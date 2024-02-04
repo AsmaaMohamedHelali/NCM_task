@@ -1,0 +1,58 @@
+{
+  "login": "تسجيل الدخول",
+  "username": "اسم المستخدم",
+  "password": "كلمة المرور",
+  "forgetPassword": "نسيت كلمة المرور ؟",
+  "notAMember": "لست عضوا؟ ",
+  "register": "انشاء حساب",
+  "hi": "اهلا،",
+  "welcome": "مرحبا",
+  "dashboard": "الرئيسية",
+  "services": "الخدمات",
+  "settings": "الاعدادات",
+  "more": "المزيد",
+  "serviceApplied": "خدمة\nمطبقة",
+  "serviceApproved": "خدمة\nموافق عليها",
+  "serviceRejected": "خدمة\nمرفوضة",
+  "viewAll": "عرض الكل",
+  "climateDataRequest": "طلب بيانات\nالمناخ",
+  "requestWeatherReport": "طلب تقرير\nالطقس",
+  "freeForecastRequest": "طلب توقعات\nمجانية",
+  "climateDataRequestHeader": "طلب بيانات المناخ",
+  "apply": "تقديم",
+  "termsAndConditions": "الشروط والاحكام",
+  "submit": "ارسال",
+  "stationDetails": "تفاصيل المحطة",
+  "applicantDetails": "تفاصيل المتقدم",
+  "nationalAddress": "العنوان",
+  "contactDetails": "تفاصيل الاتصال",
+  "titleDeedType": "نوع سند الملكية",
+  "delegation": "تفويض",
+  "weatherStationUnderConstruction": "محطة الرصد الجوي قيد الانشاء",
+  "listOfWeatherStations": "قائمة محطات الرصد الجوي",
+  "stationClassification": "تصنيف المحطة",
+  "stationClass": "درجة المحطة",
+  "proposedStationLocation": "موقع المحطة المقترح",
+  "stationCoordinates": "إحداثيات المحطة",
+  "stationTypes": "أنواع المحطات",
+  "stationAddress": "عنوان المحطة",
+  "ownership": "الملكية",
+  "rent": "ايجار",
+  "delegateName": "اسم المفوض",
+  "idNumber": "رقم الهوية",
+  "authorizationReferenceNumber": "الرقم المرجعي للترخيص",
+  "signatureDigital": "التوقيع الالكتروني",
+  "uploadDocument": "ارفاق ملف"
+
+
+
+
+
+
+
+
+
+
+
+
+}
