@@ -1,16 +1,12 @@
 # ncm
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Overview
+This Flutter project demonstrates the implementation of the repository pattern architecture along with additional features like Bloc with Cubit, GetX for routing, Intl for localizations, and ScreenUtils for sizing. The repository pattern is a design pattern that isolates the logic that retrieves data and maps it to the entity model from the business logic.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+Bloc: A predictable state management library.
+GetX: A lightweight and powerful state management solution with routing.
+Intl: Internationalization and localization support.
+screen_utils: A utility for sizing and responsive design.
